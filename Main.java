@@ -13,5 +13,8 @@ public class Main {
         Student stud = new Student();
         stud.sayHello();
 
+        Student stud1 = new Student();
+        stud1.sayHello();
+
     }
 }
