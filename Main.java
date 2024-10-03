@@ -10,5 +10,8 @@ public class Main {
         System.out.println("Kya ho raha hai");
         System.out.println("oNE MORE  CHANGE");
 
+        Student stud = new Student();
+        stud.sayHello();
+
     }
 }
